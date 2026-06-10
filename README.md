@@ -20,5 +20,9 @@ The Internship Finder Platform is a web application designed to help students fi
 - Responsive web design
 - AI-assisted development workflows
 - Project organization and deployment
+## Screenshot
+
+![Internship Finder Platform](screenshot.png)
 
 ## Author
+Faiz hussain
